@@ -1,7 +1,7 @@
 [
    {
       "name":"Gusion",
-      "skin": [
+      "skin":[
          {
             "skinName":"Gusion Backup",
             "img":"https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v36/upcoming%20skins/gusion%20backup.png",
@@ -22,43 +22,36 @@
             "img":"https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/V29/IMG_20220529_164215.jpg",
             "script":"https://github.com/RyuDevGFX/UpdatedSkins/raw/main/Assassin/Gusion%20Cyber%20Ops.zip"
          },
-
          {
             "skinName":"Dangerous Liaison",
             "img":"https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v36/upcoming%20skins/gusion%20Valentine.png",
             "script":"https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v36/upcoming%20skins/new%20Gusion%20revamp%20(valentine)"
-         },  
-
+         },
          {
             "skinName":"Soul Revelation",
             "img":"https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/V29/IMG_20220529_164151.jpg",
             "script":"https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v37/gusion%20soul%20revelation.zip"
-         },  
-
+         },
          {
             "skinName":"K'",
             "img":"https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/V29/IMG_20220529_164145.jpg",
             "script":"https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v36/upcoming%20skins/new%20Gusion%20revamp%20(K.O.F).zip"
-         },   
-
+         },
          {
             "skinName":"Night Owl",
             "img":"https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/V29/IMG_20220529_164138.jpg",
             "script":"https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v38/Gusion%20Night%20Owl.zip"
-         }, 
-
+         },
          {
             "skinName":"Dimension Walker",
             "img":"https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v37/gusion%2011.11%20skin.png",
             "script":"https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v37/Gusion%2011.11.zip"
-         }  
-
+         }
       ]
    },
-   
    {
       "name":"Hayabusa",
-      "skin": [
+      "skin":[
          {
             "skinName":"Hayabusa Backup",
             "img":"https://i.ibb.co/RQwydqC/IMG-20211121-092426.jpg",
@@ -84,30 +77,26 @@
             "img":"https://i.ibb.co/c8xny9S/IMG-20211119-125454.jpg",
             "script":"https://github.com/RyuDevGFX/V53/raw/main/Hayabusa%20Shura%20UPDATED.zip"
          },
-
-          {
+         {
             "skinName":"Biological Weapon",
             "img":"https://i.ibb.co/fM9W1rT/Biological-Weapon-wall.jpg",
             "script":"https://github.com/XXXRAINIER09/new-update-skin/raw/main/haya_violet%20starlight.zip"
          },
-
-          {
+         {
             "skinName":"Techie Ninja",
             "img":"https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v38/haya%20elite.png",
             "script":"https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v38/Hayabusa%20Elite%20%5B%20Fixed%20%5D.zip"
          },
-
-          {
+         {
             "skinName":"Exorcist",
             "img":"https://raw.githubusercontent.com/RyuDevGFX/V53/main/v60/upcomingSkins/Hayabusa-Exorcist.png",
             "script":"https://github.com/RyuDevGFX/V53/raw/main/v60/upcomingSkins/Hayabusa-Exorcist.zip"
          }
       ]
    },
-   
    {
       "name":"Fanny",
-      "skin": [
+      "skin":[
          {
             "skinName":"Fanny Backup",
             "img":"https://i.ibb.co/VH2Jsxy/IMG-20210720-075121.jpg",
@@ -153,13 +142,11 @@
             "img":"https://i.ibb.co/m98C0YC/IMG-20210720-075220.jpg",
             "script":"https://github.com/XXXRAINIER09/day2-part11/raw/main/fanny%20Christmas.zip"
          },
-                  {
+         {
             "skinName":"Heart Afloat",
             "img":"https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v50/IMG_20230210_204031.png",
             "script":"https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v50/Fanny%20Valentine.zip"
          }
-              
       ]
    }
-
 ]
