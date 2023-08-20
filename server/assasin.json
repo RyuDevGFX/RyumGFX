@@ -57,32 +57,50 @@
    },
    
    {
-      "name":"Benedetta",
+      "name":"Hayabusa",
       "skin": [
          {
-            "skinName":"bene",
-            "img":"https://img.skin.com",
-            "script":"https://sample.script.com"
+            "skinName":"Hayabusa Backup",
+            "img":"https://i.ibb.co/RQwydqC/IMG-20211121-092426.jpg",
+            "script":"https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/V32/Upcoming%20skins/Hayabusa%20Revamp%20Backup.zip"
          },
          {
-            "skinName":"Skin 2",
-            "img":"https://img.skin.com2",
-            "script":"https://sample.script.com2"
+            "skinName":"Shadow of Obscurity",
+            "img":"https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v33/Revamp/obsucurity.png",
+            "script":"https://github.com/XXXRAINIER09/v21/raw/main/shadow%20of%20obscurity.zip"
          },
          {
-            "skinName":"Skin 3",
-            "img":"https://img.skin.com3",
-            "script":"https://sample.script.com3"
+            "skinName":"Experiment 21",
+            "img":"https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v33/Revamp/anual.png",
+            "script":"https://github.com/XXXRAINIER09/new-update-skin/raw/main/speriment%20x.zip"
          },
          {
-            "skinName":"Skin 4",
-            "img":"https://img.skin.com4",
-            "script":"https://sample.script.com4"
+            "skinName":"Sushi Master",
+            "img":"https://i.ibb.co/23nfQjt/IMG-20211115-184235.jpg",
+            "script":"https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/V32/Upcoming%20skins/Hayabusa%20Summer%20Revamp.zip"
          },
          {
-            "skinName":"Skin 5",
-            "img":"https://img.skin.com5",
-            "script":"https://sample.script.com5"
+            "skinName":"Shura",
+            "img":"https://i.ibb.co/c8xny9S/IMG-20211119-125454.jpg",
+            "script":"https://github.com/RyuDevGFX/V53/raw/main/Hayabusa%20Shura%20UPDATED.zip"
+         }
+
+          {
+            "skinName":"Biological Weapon",
+            "img":"https://i.ibb.co/fM9W1rT/Biological-Weapon-wall.jpg",
+            "script":"https://github.com/XXXRAINIER09/new-update-skin/raw/main/haya_violet%20starlight.zip"
+         }
+
+          {
+            "skinName":"Techie Ninja",
+            "img":"https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v38/haya%20elite.png",
+            "script":"https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v38/Hayabusa%20Elite%20%5B%20Fixed%20%5D.zip"
+         }
+
+          {
+            "skinName":"Exorcist",
+            "img":"https://raw.githubusercontent.com/RyuDevGFX/V53/main/v60/upcomingSkins/Hayabusa-Exorcist.png",
+            "script":"https://github.com/RyuDevGFX/V53/raw/main/v60/upcomingSkins/Hayabusa-Exorcist.zip"
          }
       ]
    },
