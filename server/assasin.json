@@ -106,33 +106,59 @@
    },
    
    {
-      "name":"Chou",
+      "name":"Fanny",
       "skin": [
          {
-            "skinName":"chouuuuuii1",
-            "img":"https://img.skin.com",
-            "script":"https://sample.script.com"
+            "skinName":"Fanny Backup",
+            "img":"https://i.ibb.co/VH2Jsxy/IMG-20210720-075121.jpg",
+            "script":"https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v35/Fanny%20new%20Backup.zip"
          },
          {
-            "skinName":"Skin 2",
-            "img":"https://img.skin.com2",
-            "script":"https://sample.script.com2"
+            "skinName":"Campus Youth",
+            "img":"https://github.com/XXXRAINIER09/part19request/raw/main/IMG_20220304_185935.jpg",
+            "script":"https://github.com/XXXRAINIER09/part19request/raw/main/fanny%20elite.zip"
          },
          {
-            "skinName":"Skin 3",
-            "img":"https://img.skin.com3",
-            "script":"https://sample.script.com3"
+            "skinName":"Punk Princess",
+            "img":"https://github.com/XXXRAINIER09/part17/raw/main/IMG_20220223_105605.jpg",
+            "script":"https://github.com/XXXRAINIER09/part17/raw/main/fanny%20Punk%20princess.zip"
          },
          {
-            "skinName":"Skin 4",
-            "img":"https://img.skin.com4",
-            "script":"https://sample.script.com4"
+            "skinName":"Skylark",
+            "img":"https://i.ibb.co/Pz2XWPC/IMG-20210720-075138.jpg",
+            "script":"https://github.com/XXXRAINIER09/dam/raw/main/FANNY%20EPIC%F0%9F%94%B9Skylark.zip"
          },
          {
-            "skinName":"Skin 5",
-            "img":"https://img.skin.com5",
-            "script":"https://sample.script.com5"
+            "skinName":"Lightborn - Ranger",
+            "img":"https://i.ibb.co/dpZcxGP/IMG-20210720-075203.jpg",
+            "script":"https://github.com/XXXRAINIER09/dam/raw/main/FANNY%20LIGHTBORN.zip"
+         },
+         {
+            "skinName":"Royal Cavalry",
+            "img":"https://i.ibb.co/9YzxSxx/IMG-20211115-184324.jpg",
+            "script":"https://github.com/RyuDevGFX/UpdatedSkins/raw/main/Assassin/Fanny%20Royal%20Calvary.zip"
+         },
+         {
+            "skinName":"Lifeguard",
+            "img":"https://i.ibb.co/HqYDcqz/IMG-20211115-184316.jpg",
+            "script":"https://github.com/XXXRAINIER09/part19/raw/main/fanny%20special.zip"
+         },
+         {
+            "skinName":"Blade of Kibou",
+            "img":"https://github.com/XXXRAINIER09/part-13/raw/main/IMG_20220113_211117.jpg",
+            "script":"https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/Fanny%20Aspirant%20Japanese%20Voice.zip"
+         },
+         {
+            "skinName":"Christmas Carnival",
+            "img":"https://i.ibb.co/m98C0YC/IMG-20210720-075220.jpg",
+            "script":"https://github.com/XXXRAINIER09/day2-part11/raw/main/fanny%20Christmas.zip"
+         },
+                  {
+            "skinName":"Heart Afloat",
+            "img":"https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v50/IMG_20230210_204031.png",
+            "script":"https://github.com/XXXRAINIER09/All-Version-Ryumoto-Patcher/raw/main/v50/Fanny%20Valentine.zip"
          }
+              
       ]
    }
 
