@@ -1,6 +1,6 @@
 {
 
-  "Visibility": "1",
+  "Visibility": "0",
   "Description":"Please update the app to its latest version (1.89) for safer use and access to new features.",
   "MainTextButton": "UPDATE",
   "CancelButtonText": "Not Now",
@@ -9,7 +9,7 @@
   "closeWhenUpdate": "0",
   "DownloadLink": "https://play.google.com/store/apps/details?id=com.ryumoto.gfx",
   "DownloadLink1": "https://ryumotogfx.com/",
-  "Version": "1.90"
+  "Version": "1.89"
 
 
 }
