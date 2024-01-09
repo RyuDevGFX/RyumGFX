@@ -4,7 +4,7 @@
   "Description":"Please update the app to the latest version (1.89) to access the new skins & features. Uninstall the old version first.",
   "MainTextButton": "Download Now",
   "CancelButtonText": "Not Now",
-  "Cancelable": "0",
+  "Cancelable": "1",
   "closeWhenCancel": "0",
   "closeWhenUpdate": "0",
   "DownloadLink": "https://ryumotogfx.com/",
