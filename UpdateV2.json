@@ -1,7 +1,7 @@
 {
 
-  "Visibility": "0",
-  "Description":"Please update the app to the latest version (1.100) to access the new skins & features. Uninstall the old version first.",
+  "Visibility": "1",
+  "Description":"Please update the app to the latest version (2.0) to access the new skins & features. Uninstall the old version first.",
   "MainTextButton": "Download Now",
   "CancelButtonText": "Not Now",
   "Cancelable": "1",
@@ -9,7 +9,7 @@
   "closeWhenUpdate": "0",
   "DownloadLink": "https://ryumotogfx.com/",
   "DownloadLink1": "https://ryumotogfx.com/",
-  "Version": "1.100"
+  "Version": "2.0"
 
 
 }
